@@ -67,7 +67,5 @@ const fromWallet = '发起转账的钱包地址';
 const toWallet = '接收转账的钱包地址';
 const amount = 1000000; // 转账数量，以Lamports为单位
 transferTokens(fromWallet, toWallet, amount);
-
 贡献
-
 欢迎大家提交Issue和Pull Request，参与我们的代币项目开发！
